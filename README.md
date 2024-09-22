@@ -6,8 +6,8 @@ Arabic Sentiment Analysis is the task of determining the sentiment expressed in 
 
 ## Dataset
 The data has 40K+ reviews in Arabic for sentiment analysis each labelled with a rating and its associated company name.
-# Dataset Glossary (Column-Wise)
--**Index column (integer)**
--**Review (text)**
--**Rating (-1,0,1)**
--**Company (text)**
+## Dataset Glossary (Column-Wise)
+- **Index column (integer)**
+- **Review (text)**
+- **Rating (-1,0,1)**
+- **Company (text)**
