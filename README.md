@@ -11,3 +11,13 @@ The data has 40K+ reviews in Arabic for sentiment analysis each labelled with a 
 - **Review (text)**
 - **Rating (-1,0,1)**
 - **Company (text)**
+
+## Technologies Used
+
+- **Python**
+- **Pytorch**
+- - **Transformers**
+- - **Numpy**
+- **Pandas**
+- **WordCloud**
+- **arabic_reshaper**
